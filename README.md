@@ -1,2 +1,5 @@
-# stub
-Stub is a web server written on PHP 7 for educational purpose.
+# Stub
+Stub is a web server written in PHP for educational purpose.
+
+## Starting the Stub
+```$ php stub.php```
